@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="apl-springboot-jwt:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/apl_springboot_jwt_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="apl-springboot-jwt/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="apl-springboot-jwt" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
